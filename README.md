@@ -1,0 +1,1 @@
+Código de exemplo simples de upload de arquivo em PHP.
